@@ -1,1 +1,1 @@
-web: bundle exec ruby dashboard.rb -p $PORT
+dashboard: bundle exec ruby dashboard.rb -p $PORT

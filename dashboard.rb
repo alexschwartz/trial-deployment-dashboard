@@ -1,7 +1,7 @@
 require 'sinatra'
 
 get '/dashboard' do
-  @name = 'Places PBAPI Deployment Dashboard'
+  @name = 'Places PBAPI Deployment Dashboard 2012-03-04'
   erb :dashboard      
 end
 
